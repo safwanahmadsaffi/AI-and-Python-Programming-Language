@@ -1,4 +1,4 @@
-# Table of Contents
+ # Table of Contents
 1. [What is a Programming Language?](#what-is-a-programming-language)
 2. [Why Python?](#why-python)
 3. [Comments](#comment)
