@@ -43,10 +43,9 @@ print(var1 is var2)
 print(var1 is var3)
 print(var1 == var2)
 
-print("-----------MmeberShip Opreator--------")
+print("-----------MemsberShip Opreator--------")
 #in/not in
 print(1 in [1,2,3])
 print("a" not in "seffi")
-
-
+print("a" in "safwan")
 
