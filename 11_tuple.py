@@ -1,6 +1,6 @@
 #tuple is similar to list but it is imutable,can't be change
 #Tuple is a collection which is ordered and unchangeable. Allows duplicate members.
-# represented ----()------suare brackets
+# represented ----()------square brackets
 #can accept duplicate values and of any data type
 
 tuple0 = (8,22,8,"safwan")
