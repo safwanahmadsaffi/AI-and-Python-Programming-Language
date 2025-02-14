@@ -1,4 +1,4 @@
-# BeginningPython
+# Beginning Python
 ## Python Coding for Beginners
 
 ### A guide through this Repository
