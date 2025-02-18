@@ -2,7 +2,6 @@
 ## Python Coding for Beginners
 
 ### A guide through this Repository
-
 - **Step 1:**
 > Download as '.zip' or clone this repository.
 > Extract if downloaded as '.zip'
