@@ -30,7 +30,7 @@ for i in range(0,16,4):
 #1.initilization
 #2.condition
 #3.itration
-import random
+# import random
 x= input ( "ali rolled:")
 y= input ( "ahmad rolled:")
 player1=0
