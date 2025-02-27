@@ -52,3 +52,4 @@ print("score of",x,"is",player1)
 print("score of",y,"is",player2)
 #--------sentinel controlled loop---------
 print("------sentinel controlled loop-------")
+
