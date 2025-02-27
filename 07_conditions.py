@@ -26,7 +26,7 @@ elif(num>=10 and num==10):
     if(num==10):
         print("numbe is found")
     else:
-     print("Nt found")
+     print("Not found")
 else:
     print("Negatie number is found")
     

@@ -48,4 +48,3 @@ print("-----------MemsberShip Opreator--------")
 print(1 in [1,2,3])
 print("a" not in "seffi")
 print("a" in "safwan")
-

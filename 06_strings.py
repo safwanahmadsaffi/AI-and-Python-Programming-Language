@@ -1,4 +1,4 @@
-ktprint("---STRING SLICING-------")
+print("---STRING SLICING-------")
 
 #---length of word---
 name = "safwan"
@@ -19,6 +19,7 @@ print(a.find("safwan"))
 print(a.capitalize())
 print(a.lower())
 print(a.upper())
+print("strip")
 print(a.rstrip("!"))  # strinp-finish last repating latter
 print(a.replace("safwan","hassan")) # replace name
 print("--split")
