@@ -21,3 +21,6 @@ print("sin(pi)", math.sin(math.pi))
 print("cos(pi)", math.cos(math.pi))
 print("tan(pi)", math.tan(math.pi))
 #-----------------------------------------
+print("degree(1.57)= ", math.degrees(1.57))
+print("radians(90)= ", math.radians(90))
+#-----------------------------------------
