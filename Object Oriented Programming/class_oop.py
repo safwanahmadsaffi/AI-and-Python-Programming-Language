@@ -18,6 +18,7 @@ Rodger.fun()
 # --------LIBRARY EXAMPLE--------
 print("This is the liabrary example")
 # classes and objects
+fmcgh
 class library:
     book1 ="Python Rocks!"
     book2 ="Java Rocks!"
